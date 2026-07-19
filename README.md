@@ -1,2 +1,2 @@
 # Login-Page-Interface
-It is just a preview of an Login Interface I've created
+It is a front-end basic html code of Login Page Interface.
